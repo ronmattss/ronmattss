@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ronmattss
-- 👀 I’m interested in Game Development in Unity and Mobile App Development in Flutter
-- 🌱 I’m currently learning Shaders and optimiztation for games
-- 💞️ I’m looking to collaborate on
+- 👀 I’m interested in Game Development in Unity
 - 📫 How to reach me? message me in my email: shadedgamesofficial@gmail.com 
 
 <!---
